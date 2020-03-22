@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 603f9e8b3632def43a33a67f6a2a1044
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: mazu_electric
+    100002: mazu_floor
+    100004: //RootNode
+    100006: mazu_scene_1
+    100008: mazu_scene_2
+    100010: mazu_scene_3
+    100012: mazu_scene_4
+    100014: mazu_scene_5
+    100016: mazu_tower
+    100018: mazu_wall
+    400000: mazu_electric
+    400002: mazu_floor
+    400004: //RootNode
+    400006: mazu_scene_1
+    400008: mazu_scene_2
+    400010: mazu_scene_3
+    400012: mazu_scene_4
+    400014: mazu_scene_5
+    400016: mazu_tower
+    400018: mazu_wall
+    2300000: mazu_electric
+    2300002: mazu_floor
+    2300004: mazu_scene_1
+    2300006: mazu_scene_2
+    2300008: mazu_scene_3
+    2300010: mazu_scene_4
+    2300012: mazu_scene_5
+    2300014: mazu_tower
+    2300016: mazu_wall
+    3300000: mazu_electric
+    3300002: mazu_floor
+    3300004: mazu_scene_1
+    3300006: mazu_scene_2
+    3300008: mazu_scene_3
+    3300010: mazu_scene_4
+    3300012: mazu_scene_5
+    3300014: mazu_tower
+    3300016: mazu_wall
+    4300000: mazu_scene_2
+    4300002: mazu_scene_4
+    4300004: mazu_scene_3
+    4300006: mazu_scene_5
+    4300008: mazu_scene_1
+    4300010: mazu_floor
+    4300012: mazu_tower
+    4300014: mazu_wall
+    4300016: mazu_electric
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_electric
+    second: {fileID: 2100000, guid: d7d1639f2cbd0e04aa4f2e4f7e320423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_floor
+    second: {fileID: 2100000, guid: 26cb1ae7dd75a45419292e87b93b6266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_scene_1
+    second: {fileID: 2100000, guid: 8e3a104a2d0758b4a97749c09700c3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_scene_2
+    second: {fileID: 2100000, guid: cde6d63a5ef5a9f4e835ff26529a7554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_scene_3
+    second: {fileID: 2100000, guid: 4f625e064afe99842b71fc6b542cf562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_scene_4
+    second: {fileID: 2100000, guid: 598ceec2c6a7ae444b242c6d33bd3552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_scene_5
+    second: {fileID: 2100000, guid: 6044a3cd8478c354485b24764a349598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_tower
+    second: {fileID: 2100000, guid: aa241f7d6d50bd845a7b76ef8809e0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazu_wall
+    second: {fileID: 2100000, guid: 5d9b71a244cb49742864bd2736771c78, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
